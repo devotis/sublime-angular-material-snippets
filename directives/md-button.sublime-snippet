@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<md-button href="http://google.com">$1</md-button>]]></content>
+  <tabTrigger>md-button</tabTrigger>
+  <description>Angular Material - button directive with optional ink ripples (default enabled).</description>
+  <scope>text.html</scope>
+</snippet>
