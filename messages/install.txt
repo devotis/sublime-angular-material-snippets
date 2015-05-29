@@ -5,6 +5,11 @@ Thank you for installing Angular Material Snippets
 Angular Material snippets is a work in progress.
 Just a few directives are supported.
 
+All snippest are and should be based on 
+the directives described in this documentation
+
+https://material.angularjs.org/latest/#/
+
 Collaborators are urged to ccontribute. To do so:
 1. Fork this repo
 https://github.com/devotis/sublime-angular-material-snippets

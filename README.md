@@ -21,7 +21,11 @@ Start typing `<md` in html files and the autocomplete window opens.
 
 ##Snippets
 
-TODO build support for these snipperts
+TODO: build support for these snipperts
+
+All snippest are and should be based on the directives described in this documentation
+
+https://material.angularjs.org/latest/#/
 
 - md-autocomplete
 - md-button (DONE)
