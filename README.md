@@ -6,13 +6,13 @@ Work in progress here. Collaborators are welcome to add and improve snippets for
 
 ## Install
 
-### Option 1: Manual
+### Option 1 Package Control
+
+On Mac press <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> or on PC press<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>. Then type 'Install' then press <kbd>enter</kbd> to see a list of packages. Search for 'Angular Material Snippets' then press <kbd>enter</kbd> to install.
+
+### Option 2: Manual
 
 Copy the files to your Packages directory.
-
-### Option 2: Package Control
-
-In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to see a list of packages. Search for 'AngularMaterial' then press enter to install.
 
 ## Usage
 
