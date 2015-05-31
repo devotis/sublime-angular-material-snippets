@@ -8,7 +8,7 @@ Work in progress here. Collaborators are welcome to add and improve snippets for
 
 ### Option 1 Package Control
 
-On Mac press <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> or on PC press<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>. Then type 'Install' then press <kbd>enter</kbd> to see a list of packages. Search for 'Angular Material Snippets' then press <kbd>enter</kbd> to install.
+On Mac press <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> or on PC press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>. Then type 'Install' then press <kbd>enter</kbd> to see a list of packages. Search for 'Angular Material Snippets' then press <kbd>enter</kbd> to install.
 
 ### Option 2: Manual
 
