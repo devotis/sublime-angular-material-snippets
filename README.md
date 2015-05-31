@@ -37,31 +37,33 @@ Currently support these directives
 - md-highlight-text
 - md-icon
 
-TODO: build support for these snippets
+##TODO
 
-All snippest are and should be based on the directives described in this documentation
-https://material.angularjs.org/latest/#/
+Collaborators are most welcome to help with the following
 
-- md-input
-- md-input-container
-- md-list
-- md-list-item
-- md-progress-circular
-- md-progress-linear
-- md-radio-button
-- md-radio-group
-- md-select
-- md-sidenav
-- md-sidenav-focus
-- md-slider
-- md-subheader
-- md-swipe-left
-- md-swipe-right
-- md-switch
-- md-tab
-- md-tabs
-- md-toolbar
-- md-tooltip
+- Fix double < character that is placed after hitting enter
+- Build support for these snippets. All snippest should be based on the directives described in this documentation: https://material.angularjs.org/latest/#/
+ - md-input
+ - md-input-container
+ - md-list
+ - md-list-item
+ - md-progress-circular
+ - md-progress-linear
+ - md-radio-button
+ - md-radio-group
+ - md-select
+ - md-sidenav
+ - md-sidenav-focus
+ - md-slider
+ - md-subheader
+ - md-swipe-left
+ - md-swipe-right
+ - md-switch
+ - md-tab
+ - md-tabs
+ - md-toolbar
+ - md-tooltip
+- Improve directives
 
 ## License 
 
