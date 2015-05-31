@@ -2,7 +2,7 @@
 
 A Sublime Text 2/3 snippet to generate Angular Material snippets for &lt;md-button&gt;, &lt;md-input&gt;, &lt;md-icon&gt;, etc
 
-Work in progress here. Collaborators are welcome to add and improve snippets for directives!
+Work in progress here. Collaborators are welcome to add and improve snippets for directives. Check the TODO paragraph below.
 
 ## Install
 
