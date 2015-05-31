@@ -2,8 +2,7 @@
 
 A Sublime Text 2/3 snippet to generate Angular Material snippets for &lt;md-button&gt;, &lt;md-input&gt;, &lt;md-icon&gt;, etc
 
-Work in progress here. Collaborators are welcome to add snippets for directives!
-
+Work in progress here. Collaborators are welcome to add and improve snippets for directives!
 
 ## Install
 
@@ -21,14 +20,10 @@ Start typing `<md` in html files and the autocomplete window opens.
 
 ##Snippets
 
-TODO: build support for these snipperts
-
-All snippest are and should be based on the directives described in this documentation
-
-https://material.angularjs.org/latest/#/
+Currently support these directives
 
 - md-autocomplete
-- md-button (DONE)
+- md-button
 - md-card
 - md-checkbox
 - md-chip
@@ -41,6 +36,12 @@ https://material.angularjs.org/latest/#/
 - md-grid-tile
 - md-highlight-text
 - md-icon
+
+TODO: build support for these snippets
+
+All snippest are and should be based on the directives described in this documentation
+https://material.angularjs.org/latest/#/
+
 - md-input
 - md-input-container
 - md-list

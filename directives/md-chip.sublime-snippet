@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<md-chip>$1</md-chip>]]></content>
+  <tabTrigger>md-chip</tabTrigger>
+  <description>Angular Material - md-chip is a component used within md-chips and is responsible for rendering individual chips.</description>
+  <scope>text.html</scope>
+</snippet>

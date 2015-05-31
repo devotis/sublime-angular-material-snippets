@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+<md-card>
+ <img src="card-image.png" class="md-card-image" alt="image caption">
+ <md-card-content>
+   <h2>Card headline</h2>
+   <p>Card content</p>
+ </md-card-content>
+ <md-card-footer>
+   Card footer
+ </md-card-footer>
+</md-card>
+]]></content>
+  <tabTrigger>md-card</tabTrigger>
+  <description>Angular Material - Card with optional footer</description>
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<md-autocomplete md-selected-item="selectedItem" md-search-text="searchText" md-items="item in getMatches(searchText)" md-item-text="item.display">
+  <span md-highlight-text="searchText">{{item.display}}</span>
+</md-autocomplete>
+]]></content>
+  <tabTrigger>md-autocomplete</tabTrigger>
+  <description>Angular Material - autocomplete is a special input component with a drop-down of all possible matches to a custom query. This component allows you to provide real-time suggestions as the user types in the input area.</description>
+  <scope>text.html</scope>
+</snippet>

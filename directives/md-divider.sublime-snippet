@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<md-divider></md-divider>]]></content>
+  <tabTrigger>md-divider</tabTrigger>
+  <description>Angular Material - Dividers group and separate content within lists and page layouts using strong visual and spatial distinctions. This divider is a thin rule, lightweight enough to not distract the user from content.</description>
+  <scope>text.html</scope>
+</snippet>

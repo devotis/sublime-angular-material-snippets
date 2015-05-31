@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<md-content layout-padding>
+    Lorem ipsum dolor sit amet, ne quod novum mei.$1
+</md-content>
+]]></content>
+  <tabTrigger>md-content</tabTrigger>
+  <description>Angular Material - The md-content directive is a container element useful for scrollable content. Add the [layout-padding] attribute to make the content padded.</description>
+  <scope>text.html</scope>
+</snippet>

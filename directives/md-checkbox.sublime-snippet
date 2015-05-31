@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[<md-button href="$1">$2</md-button>]]></content>
-  <tabTrigger>md-button</tabTrigger>
+  <content><![CDATA[<md-checkbox ng-model="$1" aria-label="$2">$3</md-checkbox>]]></content>
+  <tabTrigger>md-checkbox</tabTrigger>
   <description>Angular Material - button directive with optional ink ripples (default enabled).</description>
   <scope>text.html</scope>
 </snippet>
