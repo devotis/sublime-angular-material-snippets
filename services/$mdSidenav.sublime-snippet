@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+\$mdSidenav(${1:componentId})
+	${2:.toggle()}
+	${3:.open()}
+	${4:.close()}
+	${5:.then(${6:function(){
+
+	\}})};
+]]></content>
+	<tabTrigger>$mdSidenav</tabTrigger>
+	<description>Angular Material - $mdSidenav makes it easy to interact with multiple sidenavs in an app.</description>
+	<scope>source.js</scope>
+</snippet>
