@@ -36,6 +36,10 @@ Currently support these directives
 - md-grid-tile
 - md-highlight-text
 - md-icon
+- md-input
+- md-input-container
+- md-list
+- md-list-item
 
 ##TODO
 
@@ -43,10 +47,7 @@ Collaborators are most welcome to help with the following
 
 - Fix double < character that is placed after hitting enter
 - Build support for these snippets. All snippest should be based on the directives described in this documentation: https://material.angularjs.org/latest/#/
- - md-input
- - md-input-container
- - md-list
- - md-list-item
+ 
  - md-progress-circular
  - md-progress-linear
  - md-radio-button
