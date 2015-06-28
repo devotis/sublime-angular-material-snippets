@@ -1,0 +1,24 @@
+<snippet>
+  <content><![CDATA[
+<md-tabs md-selected="selectedIndexInteger">
+  $1
+</md-tabs>
+
+<!-- md-tabs attributes you can use:
+md-selected - integer - Index of the active/selected tab
+md-no-ink - boolean - If present, disables ink ripple effects.
+md-no-bar - boolean -If present, disables the selection ink bar.
+md-align-tabs string - Attribute to indicate position of tab buttons: bottom or top; default is top
+md-stretch-tabs string - Attribute to indicate whether or not to stretch tabs: auto, always, or never; default is auto
+md-dynamic-height - boolean - When enabled, the tab wrapper will resize based on the contents of the selected tab
+md-center-tabs - boolean - When enabled, tabs will be centered provided there is no need for pagination
+md-no-pagination - boolean - When enabled, pagination will remain off
+md-swipe-content - boolean - When enabled, swipe gestures will be enabled for the content area to jump between tabs
+md-no-disconnect - boolean - If your tab content has background tasks (ie. event listeners), you will want to include this to prevent the scope from being disconnected
+md-autoselect - boolean - When present, any tabs added after the initial load will be automatically selected
+-->
+]]></content>
+  <tabTrigger>md-tab</tabTrigger>
+  <description>Angular Material - The md-tabs directive serves as the container for 1..n md-tab child directives to produces a Tabs components.</description>
+  <scope>text.html</scope>
+</snippet>

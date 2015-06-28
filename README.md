@@ -49,22 +49,20 @@ Currently support these directives
 - md-sidenav
 - md-sidenav-focus
 - md-slider
+- md-subheader
+- md-swipe-left
+- md-swipe-right
+- md-switch
+- md-tab
+- md-tabs
+- md-toolbar
+- md-tooltip
 
 ##TODO
 
 Collaborators are most welcome to help with the following
 
 - Fix double < character that is placed after hitting enter
-- Build support for these snippets. All snippest should be based on the directives described in this documentation: https://material.angularjs.org/latest/#/
-
- - md-subheader
- - md-swipe-left
- - md-swipe-right
- - md-switch
- - md-tab
- - md-tabs
- - md-toolbar
- - md-tooltip
 - Improve directives
 
 ## License 
