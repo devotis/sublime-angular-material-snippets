@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<md-radio-group ng-model="$1">
+	$2
+</md-radio-group>
+]]></content>
+  <tabTrigger>md-list</tabTrigger>
+  <description>Angular Material - The md-radio-group directive identifies a grouping container for the 1..n grouped radio buttons; specified using nested md-radio-button tags.</description>
+  <scope>text.html</scope>
+</snippet>

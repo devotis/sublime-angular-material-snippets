@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<md-slider md-discrete ng-model="myDiscreteValue" step="$1" min="$2" max="$3"></md-slider>]]></content>
+  <tabTrigger>md-slider</tabTrigger>
+  <description>Angular Material - The md-slider component allows the user to choose from a range of values.</description>
+  <scope>text.html</scope>
+</snippet>

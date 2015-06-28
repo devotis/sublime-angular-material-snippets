@@ -1,5 +1,6 @@
 <snippet>
-  <content><![CDATA[<md-list>
+  <content><![CDATA[
+<md-list>
   $1
 </md-list>]]></content>
   <tabTrigger>md-list</tabTrigger>
