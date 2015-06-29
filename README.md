@@ -20,7 +20,7 @@ Start typing `<md` in html files and the autocomplete window opens.
 
 ##Snippets
 
-Currently support these directives
+Currently supports these directives. 
 
 - md-autocomplete
 - md-button
@@ -63,7 +63,7 @@ Currently support these directives
 Collaborators are most welcome to help with the following
 
 - Fix double < character that is placed after hitting enter
-- Improve directives
+- Improve directives. All snippest should be based on the directives described in this documentation: https://material.angularjs.org/latest/#/
 
 ## License 
 
