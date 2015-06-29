@@ -1,0 +1,26 @@
+<snippet>
+  <content><![CDATA[
+<div layout="row" ng-controller="MyController">
+  <md-sidenav md-component-id="left" class="md-sidenav-left">
+    Left Nav!
+  </md-sidenav>
+  <md-content>
+    Center Content
+    <md-button ng-click="openLeftMenu()">
+      Open Left Menu
+    </md-button>
+  </md-content>
+  <md-sidenav md-component-id="right" md-is-locked-open="$mdMedia('min-width: 333px')" class="md-sidenav-right">
+    <form>
+      <md-input-container>
+        <label for="testInput">Test input</label>
+        <input id="testInput" type="text" ng-model="data" md-sidenav-focus>
+      </md-input-container>
+    </form>
+  </md-sidenav>
+</div>
+]]></content>
+  <tabTrigger>md-sidenav</tabTrigger>
+  <description>Angular Material - A Sidenav component that can be opened and closed programatically.</description>
+  <scope>text.html</scope>
+</snippet>

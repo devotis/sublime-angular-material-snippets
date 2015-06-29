@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<md-whiteframe class="md-whiteframe-z1" layout layout-align="center center">
+  $1
+</md-whiteframe>]]></content>
+  <tabTrigger>md-whiteframe</tabTrigger>
+  <description>Angular Material - whiteframe for content can use z1-z5 class.</description>
+  <scope>text.html</scope>
+</snippet>

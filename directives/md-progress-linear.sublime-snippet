@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<md-progress-linear md-mode="buffer" value="$1" md-buffer-value="$2"></md-progress-linear>
+<!--md-mode	can be select from one of four modes: determinate, indeterminate, buffer or query..-->
+]]></content>
+  <tabTrigger>md-progress-linear</tabTrigger>
+  <description>Angular Material - The linear progress directive is used to make loading content in your app as delightful and painless as possible by minimizing the amount of visual change a user sees before they can view and interact with content.</description>
+  <scope>text.html</scope>
+</snippet>

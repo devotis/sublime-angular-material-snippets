@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<md-subheader>$1</md-subheader><!--You can use md-no-sticky class-->]]></content>
+  <tabTrigger>md-subheader</tabTrigger>
+  <description>Angular Material - The md-subheader directive is a subheader for a section. By default it is sticky.</description>
+  <scope>text.html</scope>
+</snippet>

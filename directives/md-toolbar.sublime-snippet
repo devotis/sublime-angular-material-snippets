@@ -1,0 +1,28 @@
+<snippet>
+  <content><![CDATA[
+<div layout="column" layout-fill>
+  <md-toolbar md-scroll-shrink md-shrink-speed-factor="0.5">
+ 	<md-button class="md-icon-button" aria-label="Settings">
+      <md-icon md-svg-icon="img/icons/menu.svg"></md-icon>
+    </md-button>
+    <h2>
+      <span>Toolbar with Icon Buttons</span>
+    </h2>
+    <span flex></span>
+    <md-button class="md-icon-button" aria-label="Favorite">
+      <md-icon md-svg-icon="img/icons/favorite.svg" style="color: greenyellow;"></md-icon>
+    </md-button>
+    <md-button class="md-icon-button" aria-label="More">
+      <md-icon md-svg-icon="img/icons/more_vert.svg"></md-icon>
+    </md-button>
+  </md-toolbar>
+  <!--Note: for scrollShrink to work, the toolbar must be a sibling of a md-content element, placed before it.-->
+  <md-content>
+    Hello!
+  </md-content>
+</div>
+]]></content>
+  <tabTrigger>md-toolbar</tabTrigger>
+  <description>Angular Material - Toolbars are usually used above a content area to display the title of the current page, and show relevant action buttons for that page.</description>
+  <scope>text.html</scope>
+</snippet>

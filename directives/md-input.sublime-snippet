@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<label>$1</label>
+<input name="$2" ng-model="$3" placeholder="$4" required md-maxlength="$5" minlength="$6">
+]]></content>
+  <tabTrigger>md-chip-remove</tabTrigger>
+  <description>Angular Material - input Use as a child of an md-input-container.</description>
+  <scope>text.html</scope>
+</snippet>

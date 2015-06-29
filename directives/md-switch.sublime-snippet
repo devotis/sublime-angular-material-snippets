@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<md-switch ng-model="$1" aria-label="$2">
+  $3
+</md-switch>
+]]></content>
+  <tabTrigger>md-switch</tabTrigger>
+  <description>Angular Material - The md-switch can also use md-no-ink, ng-true-value="", ng-false-value="", ng-change="" attributes.</description>
+  <scope>text.html</scope>
+</snippet>

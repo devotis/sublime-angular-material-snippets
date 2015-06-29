@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+<md-tab label="" disabled md-on-select="" md-on-deselect="">
+  <md-tab-label>
+    <h3>$1</h3>
+  </md-tab-label>
+  <md-tab-body>
+    <p>
+      $2
+    </p>
+  </md-tab-body>
+</md-tab>
+]]></content>
+  <tabTrigger>md-tab</tabTrigger>
+  <description>Angular Material - Use the md-tab a nested directive used within md-tabs to specify a tab with a label and optional view content.</description>
+  <scope>text.html</scope>
+</snippet>

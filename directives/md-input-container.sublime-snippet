@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<md-input-container>
+	$1
+</md-input-container>
+]]></content>
+  <tabTrigger>md-highlight-text</tabTrigger>
+  <description>Angular Material - Use md-input-container as parent of any input or textarea element.</description>
+  <scope>text.html</scope>
+</snippet>

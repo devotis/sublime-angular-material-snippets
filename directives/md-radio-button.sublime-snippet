@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<md-radio-button ng-model="$1" ng-value="$2" aria-label="$3">$4</md-radio-button>]]></content>
+  <tabTrigger>md-radio-button</tabTrigger>
+  <description>Angular Material - The md-radio-button directive is the child directive required to be used within md-radio-group elements.</description>
+  <scope>text.html</scope>
+</snippet>

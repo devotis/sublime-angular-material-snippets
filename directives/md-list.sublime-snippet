@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<md-list>
+  $1
+</md-list>]]></content>
+  <tabTrigger>md-list</tabTrigger>
+  <description>Angular Material - The md-list directive is a list container for 1..n md-list-item tags.</description>
+  <scope>text.html</scope>
+</snippet>

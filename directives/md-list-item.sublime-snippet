@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<md-list-item class="md-2-line" ng-repeat="$1">
+  $2
+</md-list-item>]]></content>
+  <tabTrigger>md-list-item</tabTrigger>
+  <description>Angular Material - The md-list-item directive is a container intended for row items in a md-list container.</description>
+  <scope>text.html</scope>
+</snippet>

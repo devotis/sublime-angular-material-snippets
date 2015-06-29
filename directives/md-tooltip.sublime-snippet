@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<md-tooltip md-visible="true" md-delay="400" md-direction="bottom" md-autohide="true">
+  $1
+</md-tooltip>
+]]></content>
+  <tabTrigger>md-tooltip</tabTrigger>
+  <description>Angular Material - Place a md-tooltip as a child of the element it describes.</description>
+  <scope>text.html</scope>
+</snippet>
