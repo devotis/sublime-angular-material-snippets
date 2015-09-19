@@ -4,7 +4,7 @@
   <md-grid-tile>$1</md-grid-tile>
 </md-grid-list>
 ]]></content>
-  <tabTrigger>md-button</tabTrigger>
+  <tabTrigger>md-grid-list</tabTrigger>
   <description>Angular Material - Grid lists are an alternative to standard list views. Grid lists are distinct from grids used for layouts and other visual presentations.</description>
   <scope>text.html</scope>
 </snippet>
