@@ -15,6 +15,6 @@
 </md-card>
 ]]></content>
   <tabTrigger>md-card</tabTrigger>
-  <description>Angular Material - Card with options</description>
+  <description>Angular Material - Card directive with options</description>
   <scope>text.html</scope>
 </snippet>
