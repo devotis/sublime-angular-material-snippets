@@ -1,3 +1,11 @@
+# 0.2.0
+
+- all options for md-button covered
+- more md-button options
+- placeholder py file for versioning
+- added a CHANGELOG and a CONTRIBUTING file
+- enforce editor line spacing
+
 # 0.1.1
 
 **New Snippets:**
