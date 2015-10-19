@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-<md-chips><button md-chip-remove>$1</button></md-chips>
-]]></content>
-  <tabTrigger>md-chip-remove</tabTrigger>
-  <description>Angular Material - md-chip-remove attribute</description>
-  <scope>text.html</scope>
-</snippet>
