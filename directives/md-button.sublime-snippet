@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<md-button ${1:class="${2:md-raised|md-fab|md-mini}"} ${3:href="${4:http://google.com}"} ${5:ng-disabled="${6:true|false}"} aria-label="${7:description}">${8:content}</md-button>]]></content>
+  <content><![CDATA[<md-button ${1:class="${2:md-raised|md-fab|md-mini}"} ${3:href="${4:http://google.com}"} ${5:ng-disabled="${6:true|false}"} aria-label="${7:description}" ${8:md-no-ink="${9:true|false}"} ${10:md-ripple-size="${11:full|partial|auto}"}>${12:content}</md-button>]]></content>
   <tabTrigger>md-button</tabTrigger>
   <description>Angular Material Button directive with options</description>
   <scope>text.html</scope>
