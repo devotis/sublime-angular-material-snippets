@@ -1,6 +1,10 @@
 <snippet>
-  <content><![CDATA[<md-checkbox ng-model="$1" aria-label="$2">$3</md-checkbox>]]></content>
+  <content><![CDATA[
+<md-checkbox ${1:md-no-ink} ${2:ng-true-value="${3:expr}" ng-false-value="${4:expr}"} ${5:ng-model="${6:variable}"} ${7:name="${8:string}"} ${9:ng-change="${10:expr}"} ${11:ng-disabled="${12:boolean}"} aria-label="${13:string}">
+	${14:content}
+</md-checkbox>
+]]></content>
   <tabTrigger>md-checkbox</tabTrigger>
-  <description>Angular Material - button directive with optional ink ripples (default enabled).</description>
+  <description>Angular Material - Checkbox directive with options</description>
   <scope>text.html</scope>
 </snippet>
