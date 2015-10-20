@@ -1,10 +1,15 @@
 <snippet>
   <content><![CDATA[
-<md-autocomplete md-selected-item="selectedItem" md-search-text="searchText" md-items="item in getMatches(searchText)" md-item-text="item.display">
-  <span md-highlight-text="searchText">{{item.display}}</span>
+<md-autocomplete md-selected-item="${1:selectedItem}" md-search-text="${2:searchText}" md-items="${3:item in getMatches(searchText)}" md-item-text="${4:item.display}">
+  ${5:<md-item-template>
+  	${6:<span md-highlight-text="${7:searchText}">\{\{ ${8:item.display} \}\}</span>}
+  </md-item-template>}
+  ${9:<md-not-found>
+  	${10:No Matches Found.}
+  </md-not-found>}
 </md-autocomplete>
 ]]></content>
   <tabTrigger>md-autocomplete</tabTrigger>
-  <description>Angular Material - autocomplete is a special input component with a drop-down of all possible matches to a custom query. This component allows you to provide real-time suggestions as the user types in the input area.</description>
+  <description>Angular Material - Autocomplete directive with options</description>
   <scope>text.html</scope>
 </snippet>

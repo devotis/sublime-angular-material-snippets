@@ -1,7 +1,16 @@
 <snippet>
-  <content><![CDATA[<md-chips ng-model="myItems" placeholder="Add an item" readonly="isReadOnly">
-</md-chips>]]></content>
+  <content><![CDATA[
+<md-chips ${1:ng-model="${2:string|object}"} ${3:md-on-append="${4:expr}"} ${5:placeholder="${6:string}"} ${7:secondary-placeholder="${8:string}"} ${9:readonly="${10:boolean}"} ${11:md-on-remove="${12:expr}" ${13:md-on-select="${14:expr}"}} ${15:delete-hint="${16:string}" ${17:delete-button-label="${18:string}"}}>
+	${19:<md-chip-template>
+		${20:content}
+	</md-chip-template>}
+	${21:<button md-chip-remove class="${22:md-primary vegetablechip}">
+    	${23:<md-icon>close</md-icon>}
+  	</button>}
+  	${24:<md-chip>${25:content}</md-chip>}
+</md-chips>
+]]></content>
   <tabTrigger>md-chips</tabTrigger>
-  <description>Angular Material - md-chips is an input component for building lists of strings or objects. The list items are displayed as 'chips'. This component can make use of an input element or an md-autocomplete element.</description>
+  <description>Angular Material - md-chips with full options and templating</description>
   <scope>text.html</scope>
 </snippet>
