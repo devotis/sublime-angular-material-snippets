@@ -2,7 +2,7 @@
 
 A Sublime Text 2/3 snippet to generate Angular Material snippets for &lt;md-button&gt;, &lt;md-input&gt;, &lt;md-icon&gt;, etc
 
-Work in progress here. Collaborators are welcome to add and improve snippets for directives. Check the TODO paragraph below.
+Work in progress here. Collaborators are welcome to add and improve snippets for directives. All snippest should be based on the directives described in this documentation: https://material.angularjs.org/latest/#/
 
 ## Install
 
@@ -16,7 +16,7 @@ Copy the files to your Packages directory.
 
 ## Usage
 
-Start typing `<md` in html files and the autocomplete window opens.
+Start typing `md-` in html files and the autocomplete window opens or use <kbd>Ctrl</kbd>+<kbd>Space</kbd> to autocomplete.
 
 ##Snippets
 
@@ -57,13 +57,6 @@ Currently supports these directives.
 - md-tabs
 - md-toolbar
 - md-tooltip
-
-##TODO
-
-Collaborators are most welcome to help with the following
-
-- Fix double < character that is placed after hitting enter
-- Improve directives. All snippest should be based on the directives described in this documentation: https://material.angularjs.org/latest/#/
 
 ## License 
 
