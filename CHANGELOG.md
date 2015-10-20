@@ -1,5 +1,12 @@
-# 0.2.0
+# 0.2.1
+- Three snippets for md-chips are consolidated into one super md-chips snippet
+- added some commits
+- more options for md-card
+- updated autocomplete directive with options
+- updated md-checkbox snippet
+- certain pieces are required + consolidating chips directive
 
+# 0.2.0
 - all options for md-button covered
 - more md-button options
 - placeholder py file for versioning
@@ -7,7 +14,6 @@
 - enforce editor line spacing
 
 # 0.1.1
-
 **New Snippets:**
 
 Reference: https://material.angularjs.org/latest/
