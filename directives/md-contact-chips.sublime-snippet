@@ -1,9 +1,9 @@
 <snippet>
   <content><![CDATA[
-<md-contact-chips ng-model="ctrl.contacts" md-contacts="ctrl.querySearch($query)" md-contact-name="name" md-contact-image="image" md-contact-email="email" placeholder="To">
+<md-contact-chips ng-model="${1:variable}" md-contacts="${2:searchFunction}" md-contact-name="${3:string}" md-contact-image="${4:string}" md-contact-email="${5:string}" ${6:md-require-match="${7:boolean}" md-highlight-flags="${8:string}" filter-selected="${9:filterFunction}" placeholder="${10:string}"}>
 </md-contact-chips>
 ]]></content>
   <tabTrigger>md-contact-chips</tabTrigger>
-  <description>Angular Material - md-contact-chips is an input component based on md-chips and makes use of an md-autocomplete element. The component allows the caller to supply a query expression which returns a list of possible contacts. The user can select one of these and add it to the list of chips.</description>
+  <description>Angular Material - md-contact-chips with full options</description>
   <scope>text.html</scope>
 </snippet>
