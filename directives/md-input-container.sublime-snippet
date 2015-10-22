@@ -1,10 +1,11 @@
 <snippet>
   <content><![CDATA[
 <md-input-container>
-	$1
+	${1:<label>${2:Username}</label>
+	<input type="text" ${3:ng-model="${4:user.name}"}>}
 </md-input-container>
 ]]></content>
-  <tabTrigger>md-highlight-text</tabTrigger>
-  <description>Angular Material - Use md-input-container as parent of any input or textarea element.</description>
+  <tabTrigger>md-input-container</tabTrigger>
+  <description>Angular Material - md-input-container</description>
   <scope>text.html</scope>
 </snippet>
