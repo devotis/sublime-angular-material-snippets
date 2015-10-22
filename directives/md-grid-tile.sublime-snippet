@@ -1,12 +1,15 @@
 <snippet>
   <content><![CDATA[
-<md-grid-tile>
-  <md-grid-tile-footer>
-    <h3>This is a footer</h3>
-  </md-grid-tile-footer>
+<md-grid-tile ${1:md-colspan="${2:number}"} ${3:md-rowspan="${4:number}"}>
+	${5:<md-grid-tile-header>
+		${6:<h3>$7</h3>}
+	</md-grid-tile-header>}
+  	${8:<md-grid-tile-footer>
+  		${9:<h3>$10</h3>}
+  	</md-grid-tile-footer>}
 </md-grid-tile>
 ]]></content>
   <tabTrigger>md-grid-tile</tabTrigger>
-  <description>Angular Material - Tiles contain the content of an md-grid-list. They span one or more grid cells vertically or horizontally, and use md-grid-tile-{footer,header} to display secondary content within the tile.</description>
+  <description>Angular Material - md-grid-tile</description>
   <scope>text.html</scope>
 </snippet>
