@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[<md-icon md-svg-src="$1" alt="$2"></md-icon>]]></content>
-  <tabTrigger>md-icon</tabTrigger>
-  <description>Angular Material - The md-icon directive is an markup element useful for showing an icon based on a font-face or a SVG. Both external SVGs (via URLs) or cached SVG from icon sets can be easily loaded and used.</description>
-  <scope>text.html</scope>
-</snippet>

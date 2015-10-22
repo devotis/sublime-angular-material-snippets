@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<md-icon class="${1:step img}" md-font-icon="${2:font.name}" aria-label="${3:description}"></md-icon>
+]]></content>
+  <tabTrigger>md-icon-class</tabTrigger>
+  <description>Angular Material - md-icon using Classnames</description>
+  <scope>text.html</scope>
+</snippet>
