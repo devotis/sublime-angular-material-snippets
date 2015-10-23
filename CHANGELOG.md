@@ -1,3 +1,13 @@
+# 0.2.2
+More updated directives including datepicker
+- better contact chips
+- simple md-content
+- datepicker and divider
+- md-grid list and tile
+- md-highlight-text updated
+- new md-icons snippets
+- input container
+ 
 # 0.2.1
 - Three snippets for md-chips are consolidated into one super md-chips snippet
 - added some commits
