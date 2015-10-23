@@ -1,13 +1,11 @@
 <snippet>
   <content><![CDATA[
-<input placeholder="Enter a search term..." ng-model="searchTerm" type="text">
+<input ${1:placeholder="${2:Enter a search term...}"} ${3:ng-model="${4:searchTerm}"} type="${5:text}">
 <ul>
-  <li ng-repeat="result in results" md-highlight-text="searchTerm">
-    {{result.text}}
-  </li>
+  <li md-highlight-text="${4:searchTerm}">$5</li>
 </ul>
 ]]></content>
   <tabTrigger>md-highlight-text</tabTrigger>
-  <description>Angular Material - The md-highlight-text directive allows you to specify text that should be highlighted within an element. Highlighted text will be wrapped in &lt;span class="highlight"&gt;&lt;/span&gt; which can be styled through CSS. Please note that child elements may not be used with this directive.</description>
+  <description>Angular Material - md-highlight-text</description>
   <scope>text.html</scope>
 </snippet>

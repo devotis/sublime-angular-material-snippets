@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<md-datepicker ng-model="${1:variable}" ${2:ng-change="${3:expr}" md-min-date="${4:Date}" md-max-date="${5:Date}" disabled="${6:boolean}" required="${7:boolean}"}></md-datepicker>
+]]></content>
+  <tabTrigger>md-datepicker</tabTrigger>
+  <description>Angular Material - md-date-picker</description>
+  <scope>text.html</scope>
+</snippet>
