@@ -20,7 +20,7 @@ Start typing `md-` in html files and the autocomplete window opens or use <kbd>C
 
 ##Snippets
 
-Currently supports these directives. 
+See the [directives](https://github.com/devotis/sublime-angular-material-snippets/tree/master/directives) directory for supported snippets.
 
 - md-autocomplete
 - md-button
