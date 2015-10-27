@@ -25,38 +25,7 @@ See the [directives](https://github.com/devotis/sublime-angular-material-snippet
 - md-autocomplete
 - md-button
 - md-card
-- md-checkbox
-- md-chip
-- md-chip-remove
-- md-chips
-- md-contact-chips
-- md-content
-- md-divider
-- md-grid-list
-- md-grid-tile
-- md-highlight-text
-- md-icon
-- md-input
-- md-input-container
-- md-list
-- md-list-item
-- md-menu
-- md-progress-circular
-- md-progress-linear
-- md-radio-button
-- md-radio-group
-- md-select
-- md-sidenav
-- md-sidenav-focus
-- md-slider
-- md-subheader
-- md-swipe-left
-- md-swipe-right
-- md-switch
-- md-tab
-- md-tabs
-- md-toolbar
-- md-tooltip
+etc...
 
 ## License 
 
