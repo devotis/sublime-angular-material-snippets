@@ -16,7 +16,7 @@ Copy the files to your Packages directory.
 
 ## Usage
 
-Start typing `md-` in html files and the autocomplete window opens or use <kbd>Ctrl</kbd>+<kbd>Space</kbd> to autocomplete.
+Start typing `<md-` in html files and the autocomplete window opens or use <kbd>Ctrl</kbd>+<kbd>Space</kbd> to autocomplete.
 
 ##Snippets
 
