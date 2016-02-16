@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-tab label="" disabled md-on-select="" md-on-deselect="">
+md-tab label="" disabled md-on-select="" md-on-deselect="">
   <md-tab-label>
     <h3>$1</h3>
   </md-tab-label>

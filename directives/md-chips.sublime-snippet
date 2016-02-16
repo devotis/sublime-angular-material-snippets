@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-chips ${1:ng-model="${2:string|object}"} ${3:md-on-append="${4:expr}"} ${5:placeholder="${6:string}"} ${7:secondary-placeholder="${8:string}"} ${9:readonly="${10:boolean}"} ${11:md-on-remove="${12:expr}" ${13:md-on-select="${14:expr}"}} ${15:delete-hint="${16:string}" ${17:delete-button-label="${18:string}"}}>
+md-chips ${1:ng-model="${2:string|object}"} ${3:md-on-append="${4:expr}"} ${5:placeholder="${6:string}"} ${7:secondary-placeholder="${8:string}"} ${9:readonly="${10:boolean}"} ${11:md-on-remove="${12:expr}" ${13:md-on-select="${14:expr}"}} ${15:delete-hint="${16:string}" ${17:delete-button-label="${18:string}"}}>
 	${19:<md-chip-template>
 		${20:content}
 	</md-chip-template>}

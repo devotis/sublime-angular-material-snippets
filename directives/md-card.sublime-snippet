@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-card>
+md-card>
 	${1:<img class="md-card-image" src="${2:card-image.png}" alt="${3:image caption}">}
 	<md-card-content>
 		<h2>${4:Card headline}</h2>

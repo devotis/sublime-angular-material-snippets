@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<div md-swipe-left="onSwipeLeft()">$1</div>]]></content>
+  <content><![CDATA[div md-swipe-left="onSwipeLeft()">$1</div>]]></content>
   <tabTrigger>md-swipe-left</tabTrigger>
   <description>Angular Material - The md-swipe-left directives allows you to specify custom behavior when an element is swiped left.</description>
   <scope>text.html</scope>

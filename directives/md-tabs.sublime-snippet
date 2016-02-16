@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-tabs md-selected="selectedIndexInteger">
+md-tabs md-selected="selectedIndexInteger">
   $1
 </md-tabs>
 

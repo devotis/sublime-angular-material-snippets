@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-progress-circular md-mode="determinate" value="$1" ng-value="$2" md-diameter="48"></md-progress-circular>
+md-progress-circular md-mode="determinate" value="$1" ng-value="$2" md-diameter="48"></md-progress-circular>
 <!--For operations where the user is asked to wait a moment while something finishes up, and it’s not necessary to expose what's happening behind the scenes and how long it will take, use an md-mode="indeterminate" indicator.-->]]></content>
   <tabTrigger>md-progress-circular</tabTrigger>
   <description>Angular Material - The circular progress directive is used to make loading content in your app as delightful and painless as possible by minimizing the amount of visual change a user sees before they can view and interact with content.</description>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-icon class="${1:material-icons step}" aria-label="${2:description}">${3:font-name}</md-icon>
+md-icon class="${1:material-icons step}" aria-label="${2:description}">${3:font-name}</md-icon>
 ]]></content>
   <tabTrigger>md-icon-ligature</tabTrigger>
   <description>Angular Material - md-icon using Ligatures</description>

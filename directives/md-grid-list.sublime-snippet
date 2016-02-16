@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-grid-list md-cols="${1:number}" md-gutter="${2:string}" md-row-height="${3:string}" md-on-layout="${4:expr}">
+md-grid-list md-cols="${1:number}" md-gutter="${2:string}" md-row-height="${3:string}" md-on-layout="${4:expr}">
   ${5:<md-grid-tile>$6</md-grid-tile>}
 </md-grid-list>
 ]]></content>
