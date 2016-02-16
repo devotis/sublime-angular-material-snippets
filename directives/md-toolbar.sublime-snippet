@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<div layout="column" layout-fill>
+div layout="column" layout-fill>
   <md-toolbar md-scroll-shrink md-shrink-speed-factor="0.5">
  	<md-button class="md-icon-button" aria-label="Settings">
       <md-icon md-svg-icon="img/icons/menu.svg"></md-icon>

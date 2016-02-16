@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-divider ${1:md-inset}></md-divider>
+md-divider ${1:md-inset}></md-divider>
 ]]></content>
   <tabTrigger>md-divider</tabTrigger>
   <description>Angular Material - md-divider</description>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-contact-chips ng-model="${1:variable}" md-contacts="${2:searchFunction}" md-contact-name="${3:string}" md-contact-image="${4:string}" md-contact-email="${5:string}" ${6:md-require-match="${7:boolean}" md-highlight-flags="${8:string}" filter-selected="${9:filterFunction}" placeholder="${10:string}"}>
+md-contact-chips ng-model="${1:variable}" md-contacts="${2:searchFunction}" md-contact-name="${3:string}" md-contact-image="${4:string}" md-contact-email="${5:string}" ${6:md-require-match="${7:boolean}" md-highlight-flags="${8:string}" filter-selected="${9:filterFunction}" placeholder="${10:string}"}>
 </md-contact-chips>
 ]]></content>
   <tabTrigger>md-contact-chips</tabTrigger>

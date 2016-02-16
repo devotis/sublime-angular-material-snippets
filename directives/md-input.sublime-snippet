@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<label>$1</label>
+label>$1</label>
 <input name="$2" ng-model="$3" placeholder="$4" required md-maxlength="$5" minlength="$6">
 ]]></content>
   <tabTrigger>md-chip-remove</tabTrigger>

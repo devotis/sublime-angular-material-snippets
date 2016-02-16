@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-whiteframe class="md-whiteframe-z1" layout layout-align="center center">
+md-whiteframe class="md-whiteframe-z1" layout layout-align="center center">
   $1
 </md-whiteframe>]]></content>
   <tabTrigger>md-whiteframe</tabTrigger>

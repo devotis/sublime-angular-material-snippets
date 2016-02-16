@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-radio-group ng-model="$1">
+md-radio-group ng-model="$1">
 	$2
 </md-radio-group>
 ]]></content>

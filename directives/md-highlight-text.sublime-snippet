@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<input ${1:placeholder="${2:Enter a search term...}"} ${3:ng-model="${4:searchTerm}"} type="${5:text}">
+input ${1:placeholder="${2:Enter a search term...}"} ${3:ng-model="${4:searchTerm}"} type="${5:text}">
 <ul>
   <li md-highlight-text="${4:searchTerm}">$5</li>
 </ul>

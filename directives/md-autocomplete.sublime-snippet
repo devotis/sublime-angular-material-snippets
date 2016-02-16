@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-autocomplete md-selected-item="${1:selectedItem}" md-search-text="${2:searchText}" md-items="${3:item in getMatches(searchText)}" md-item-text="${4:item.display}">
+md-autocomplete md-selected-item="${1:selectedItem}" md-search-text="${2:searchText}" md-items="${3:item in getMatches(searchText)}" md-item-text="${4:item.display}">
   ${5:<md-item-template>
   	${6:<span md-highlight-text="${7:searchText}">\{\{ ${8:item.display} \}\}</span>}
   </md-item-template>}

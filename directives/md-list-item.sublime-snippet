@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-list-item class="md-2-line" ng-repeat="$1">
+md-list-item class="md-2-line" ng-repeat="$1">
   $2
 </md-list-item>]]></content>
   <tabTrigger>md-list-item</tabTrigger>

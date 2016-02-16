@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-select ng-model="$1"> <!--md-on-close: expression; multiple:boolean; placeholder: string;-->
+md-select ng-model="$1"> <!--md-on-close: expression; multiple:boolean; placeholder: string;-->
   <md-select-label>Select a state</md-select-label>
   <md-option ng-value="opt" ng-repeat="opt in options">{{ opt }}</md-option>
 </md-select>

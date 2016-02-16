@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-grid-tile ${1:md-colspan="${2:number}"} ${3:md-rowspan="${4:number}"}>
+md-grid-tile ${1:md-colspan="${2:number}"} ${3:md-rowspan="${4:number}"}>
 	${5:<md-grid-tile-header>
 		${6:<h3>$7</h3>}
 	</md-grid-tile-header>}

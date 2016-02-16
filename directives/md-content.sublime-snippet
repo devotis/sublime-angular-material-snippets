@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-content ${1:layout-padding} ${2:layout-wrap}>
+md-content ${1:layout-padding} ${2:layout-wrap}>
     ${3:Lorem ipsum dolor sit amet, ne quod novum mei}
 </md-content>
 ]]></content>

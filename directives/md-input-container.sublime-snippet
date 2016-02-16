@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-input-container>
+md-input-container>
 	${1:<label>${2:Username}</label>
 	<input type="text" ${3:ng-model="${4:user.name}"}>}
 </md-input-container>

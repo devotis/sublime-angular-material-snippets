@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-progress-linear md-mode="buffer" value="$1" md-buffer-value="$2"></md-progress-linear>
+md-progress-linear md-mode="buffer" value="$1" md-buffer-value="$2"></md-progress-linear>
 <!--md-mode	can be select from one of four modes: determinate, indeterminate, buffer or query..-->
 ]]></content>
   <tabTrigger>md-progress-linear</tabTrigger>

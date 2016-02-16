@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-switch ng-model="$1" aria-label="$2">
+md-switch ng-model="$1" aria-label="$2">
   $3
 </md-switch>
 ]]></content>

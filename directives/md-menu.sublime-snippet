@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
- <md-menu md-offset="0 0">
+md-menu md-offset="0 0">
  <!-- Trigger element is a md-button with an icon -->
  <md-button ng-click="$mdOpenMenu()" class="md-icon-button" aria-label="Open sample menu">
    <md-icon md-svg-icon="call:phone"></md-icon>

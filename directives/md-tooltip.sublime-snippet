@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-tooltip md-visible="true" md-delay="400" md-direction="bottom" md-autohide="true">
+md-tooltip md-visible="true" md-delay="400" md-direction="bottom" md-autohide="true">
   $1
 </md-tooltip>
 ]]></content>

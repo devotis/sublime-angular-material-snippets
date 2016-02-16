@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-checkbox ${1:md-no-ink} ${2:ng-true-value="${3:expr}" ng-false-value="${4:expr}"} ng-model="${5:variable}" ${6:name="${7:string}"} ${8:ng-change="${9:expr}"} ${10:ng-disabled="${11:boolean}"} aria-label="${12:string}">
+md-checkbox ${1:md-no-ink} ${2:ng-true-value="${3:expr}" ng-false-value="${4:expr}"} ng-model="${5:variable}" ${6:name="${7:string}"} ${8:ng-change="${9:expr}"} ${10:ng-disabled="${11:boolean}"} aria-label="${12:string}">
 	${13:content}
 </md-checkbox>
 ]]></content>

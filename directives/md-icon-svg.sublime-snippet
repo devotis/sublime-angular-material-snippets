@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<md-icon md-svg-icon="${1:alarm}" style="${2:color: #0F0;}" aria-label="${3:Alarm Icon}"></md-icon>
+md-icon md-svg-icon="${1:alarm}" style="${2:color: #0F0;}" aria-label="${3:Alarm Icon}"></md-icon>
 ]]></content>
   <tabTrigger>md-icon-svg</tabTrigger>
   <description>Angular Material - md-icon using SVG</description>
